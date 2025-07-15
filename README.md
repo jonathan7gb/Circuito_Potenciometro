@@ -3,11 +3,16 @@
 ㅤProjeto desenvolvido na UC Programação IOT, com o professor João Valentim. A ideia é aprender e colocar em prática os conhecimentos que vimos durantes as aulas. É uma atividade onde tivemos que, primeiramente, fazer o circuito no WOKWI com um ESP32. Após isso, começamos a mexer com o NODE RED, para fazer a comunicação com outras aplicações via MQTT/WiFi. Fizemos um gráfico e um medidor de potência, para que os dados recebidos do circuito pudessem ser tratados e visualizados. 
 <br>
 <br>
-ㅤApós essa implementação, criamos um banco de dados em MySQL para que os dados fossem armazenados. Utilizando o NODE RED, fizemos a comunicação entre o BD e o circuito no WOKWI. A partir disso avançamos e fizemos o circuito fisicamente, utilizando componentes que estavam a nossa disposição. Para essa parte da atividade, utilizamos a IDE Arduino para codar os comandos que seriam executados no microcontrolador ESP32. Por fim o Railway foi o serviço escolhido para armazenar os dados em nuvem
+ㅤApós essa implementação, criamos um banco de dados em MySQL para que os dados fossem armazenados. Utilizando o NODE RED, fizemos a comunicação entre o BD e o circuito no WOKWI. A partir disso avançamos e fizemos o circuito fisicamente, utilizando componentes que estavam a nossa disposição. Para essa parte da atividade, utilizamos a IDE Arduino para codar os comandos que seriam executados no microcontrolador ESP32. 
+<br>
+ㅤPara fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, pegamos do Railway e criamos uma nova conexão no MySQL Workbench.
+Link do site do Railway -> https://railway.com/
 
 <br> 
 Grupo: Jonathan, Matheus Engel e Gustavo Kotryk
+
 <br> 
+<hr> 
 
 # Código do Banco de Dados
 ```mysql
@@ -29,11 +34,6 @@ truncate potenciometro; //Remove todos os dados da tabela
 
 # Link do circuito feito na plataforma WOKWI
 -> https://wokwi.com/projects/433954241947817985
-
-<hr>
-
-Para fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, pegamos do Railway e criamos uma nova conexão no MySQL Workbench.
-Link do site do Railway -> https://railway.com/
 
 <hr>
 
