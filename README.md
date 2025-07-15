@@ -23,7 +23,8 @@ Link do circuito feito na plataforma WOKWI
 
 <hr>
 
-Para fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, pegamos do Railway e criamos uma nova conexão no MySQL Workbench
+Para fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, pegamos do Railway e criamos uma nova conexão no MySQL Workbench.
+Link do site do Railway -> https://railway.com/
 
 <hr>
 
