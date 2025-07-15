@@ -16,10 +16,16 @@ SELECT * FROM potenciometro; //printa os dados
 truncate potenciometro; //Remove todos os dados da tabela
 ```
 
+<hr>
+
 Link do circuito feito na plataforma WOKWI
 -> https://wokwi.com/projects/433954241947817985
 
+<hr>
+
 Para fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, pegamos do Railway e criamos uma nova conexão no MySQL Workbench
+
+<hr>
 
 -> Para instalar o NODE RED e utilizar na máquina, use os seguintes comandos: 
 
