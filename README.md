@@ -7,8 +7,9 @@
 
 <br> 
 Grupo: Jonathan, Matheus Engel e Gustavo Kotryk
+<br> 
 
-Código do Banco de Dados
+# Código do Banco de Dados
 ```mysql
 CREATE DATABASE banco_de_dadpotenciometroos_iot_teste; //cria o banco
 USE  banco_de_dados_iot_teste; //ativa o banco
@@ -26,7 +27,7 @@ truncate potenciometro; //Remove todos os dados da tabela
 
 <hr>
 
-Link do circuito feito na plataforma WOKWI
+# Link do circuito feito na plataforma WOKWI
 -> https://wokwi.com/projects/433954241947817985
 
 <hr>
