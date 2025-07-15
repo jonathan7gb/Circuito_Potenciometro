@@ -38,19 +38,8 @@ truncate potenciometro; //Remove todos os dados da tabela
 
 <hr>
 
--> Para instalar o NODE RED e utilizar na máquina, use os seguintes comandos: 
+-> Para instalar o NODE RED e utilizar na máquina, siga as instruções do site do NODE RED -> https://nodered.org/: 
 
-```cmd
-npm install -g --unsafe-perm node-red
-```
-
-```cmd
-set Path=%path%;%userprofile%\AppData\Roaming\npm;
-```
-
-```cmd
-node-red
-```
 
 <hr>
 Documento usado como material de apoio para realizar o circuito: 
