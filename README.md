@@ -42,3 +42,37 @@ set Path=%path%;%userprofile%\AppData\Roaming\npm;
 node-red
 ```
 
+Documento usado como material de apoio para realizar o circuito: 
+<br>
+-> https://docs.google.com/document/d/1MJhCqAjCupHCQtknQJtH1WAvGGjnZA43_WHnpSI7vvQ/edit?pli=1&tab=t.0#heading=h.vc5v2h8ddjcl
+
+<hr>
+
+# FOTOS DO CIRCUITO FÍSICO
+- Utilizamos um ESP32 DevKit 1 Dev Module
+- 1 Potenciometro
+- 1 Protoboard
+- 2 Leds
+- 2 Resistores
+- 9 fios conectores
+
+<img width="709" height="945" alt="image" src="https://github.com/user-attachments/assets/cb580fcb-46ba-4e6d-a779-3d4f0b959b3d" />
+<img width="709" height="945" alt="image" src="https://github.com/user-attachments/assets/25835740-2b9f-44db-90f9-dd8193dfdcd0" />
+<img width="709" height="945" alt="image" src="https://github.com/user-attachments/assets/1eadf4b6-89ab-47ff-82f0-64cf398903b5" />
+
+<hr>
+
+# PRINT DO NODE RED, ONDE FOI FEITA A PARTE DE COMUNICAÇÃO ENTRE O BANCO DE DADOS E O CIRCUITO
+
+<img width="777" height="545" alt="image" src="https://github.com/user-attachments/assets/867458cd-56b7-4f41-9649-896c34d047e7" />
+
+<hr>
+
+# PRINT DA REPRESENTAÇÃO VISUAL DO CIRCUITO NO WOKWI
+
+<img width="668" height="444" alt="image" src="https://github.com/user-attachments/assets/72fb7738-8fef-4dd4-a1ae-6f0eca59e406" />
+
+
+
+
+
