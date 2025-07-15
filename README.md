@@ -52,6 +52,7 @@ set Path=%path%;%userprofile%\AppData\Roaming\npm;
 node-red
 ```
 
+<hr>
 Documento usado como material de apoio para realizar o circuito: 
 <br>
 -> https://docs.google.com/document/d/1MJhCqAjCupHCQtknQJtH1WAvGGjnZA43_WHnpSI7vvQ/edit?pli=1&tab=t.0#heading=h.vc5v2h8ddjcl
