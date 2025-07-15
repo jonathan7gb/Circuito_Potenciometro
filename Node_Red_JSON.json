@@ -1,0 +1,24 @@
+[
+    {
+        "id": "29121fd29ba2b8b4",
+        "type": "mysql",
+        "z": "7fad5c038b9eded9",
+        "mydb": "de155ca94d5bba13",
+        "name": "meu_banco",
+        "x": 730,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "de155ca94d5bba13",
+        "type": "MySQLdatabase",
+        "name": "teste_iot",
+        "host": "shuttle.proxy.rlwy.net",
+        "port": "28743",
+        "db": "banco_de_dados_iot_teste",
+        "tz": "",
+        "charset": "UTF8"
+    }
+]
