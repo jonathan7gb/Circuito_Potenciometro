@@ -6,7 +6,7 @@
 ㅤApós essa implementação, criamos um banco de dados em MySQL para que os dados fossem armazenados. Utilizando o NODE RED, fizemos a comunicação entre o BD e o circuito no WOKWI. A partir disso avançamos e fizemos o circuito fisicamente, utilizando componentes que estavam a nossa disposição. Para essa parte da atividade, utilizamos a IDE Arduino para codar os comandos que seriam executados no microcontrolador ESP32. 
 <br>
 <br>
-ㅤPara fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, pegamos do Railway e criamos uma nova conexão no MySQL Workbench.
+ㅤPara fazer a conexão do banco de dados com a nuvem, utilizamos o Railway, onde as credenciais dele, como user, host, e porta, foram usadas para criarmos uma nova conexão no MySQL Workbench.
 Link do site do Railway -> https://railway.com/
 
 <br> 
